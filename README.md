@@ -4,6 +4,4 @@ Three channel Software Defined Radio (SDR) transmitter using USB to VGA adapters
 
 Check out my blog to get full details on these boards.
 
-LoRa FeatherWing Development Breakout:
-
 http://syncchannel.blogspot.com
